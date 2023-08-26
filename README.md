@@ -11,13 +11,13 @@ You can click the Preview link to take a look at your changes.
 --->
 I've been home labbing for over 3 years now but I haven't been documenting my projects online.  I am in the process of converting my notebooks to repositories so I can be able to better document my process and methods
 
-## Goals
+# Goals
 
 I want to be a cloud solutions architect.  I really enjoy the challenge of finding solutions to complex problems, especially those faced by small businesses.  Coming from a deeply analitical background in real estate investment, I feel that my skills are suited perfectly for this new pursuit.  
 
 
-## Exam Prep
+# Exam Prep
 
-# Network+
+## Network+
 
 I'm studying like crazy for the Network+ exam and am struggling with memorizing common ports.  I wrote a python script to help with that.  It takes the list of common ports from the compTIA network+ objectives and gives the protocol asking for the port number.  It keeps a running tally of your correct guesses and will not repeat a port for at least 10 questions.
