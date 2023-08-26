@@ -47,7 +47,7 @@ print (len(askedPorts))
 
 
 
-while x == 1:
+while x == 0:
     selection = random.choice(protoportList)
     while (selection[0] in askedPorts):
         selection = random.choice(protoportList)
