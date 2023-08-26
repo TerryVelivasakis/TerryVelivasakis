@@ -40,8 +40,21 @@ protoportList = list(protoport.items())
 questions = 0
 correctAnswers = 0
 x=0
-while x == 0:
+
+askedPorts = ["a","b","c"]
+print (len(askedPorts))
+
+
+
+
+while x == 1:
     selection = random.choice(protoportList)
+    while (selection[0] in askedPorts):
+        selection = random.choice(protoportList)
+    askedPorts.append(selection[0])
+
+    if (len(askedPorts < 10)):
+        askedPorts.pop(0)
     answer = input (f"What port(s) does {selection[0]} run on? (exit to quit): ")
     if (answer == "exit"):
         print(f"you got {correctAnswers} out of {questions}.  {int((correctAnswers/questions)*100)}%")
