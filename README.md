@@ -21,3 +21,8 @@ I want to be a cloud solutions architect.  I really enjoy the challenge of findi
 ## Network+
 
 I'm studying like crazy for the Network+ exam and am struggling with memorizing common ports.  I wrote a python script to help with that.  It takes the list of common ports from the compTIA network+ objectives and gives the protocol asking for the port number.  It keeps a running tally of your correct guesses and will not repeat a port for at least 10 questions.
+
+
+## Security+
+
+Having gone through the Google Security Certificate was a good basis to start studying for the Security+ Exam.  I'm using a combination of online videos, such as Professor Messer's series, and practice tests.  I've found that the best way to learn is by doing.  To add to the usual read and review study, I am also adding projects to the mix.  I'm reconfiguring my firewall, adding a honeypot and working in AWS.
