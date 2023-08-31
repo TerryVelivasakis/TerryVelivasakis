@@ -1,0 +1,85 @@
+{
+	"contactInfo": {
+		"firstName": "Lefteris",
+		"nickName": "Terry",
+		"lastName": "Velivasakis",
+		"email": "terry@velivasakis.tech",
+		"location": "Palm Harbor, FL"
+	},
+	"personalStatement": "Driven achiever and certified Tech Junkie with an impressive homelab. Passionate cloud practitioner with experience transitioning from local services to cloud solutions. An unquenchable thirst for knowledge, a naturally curious spirit, and an overwhelming urge to tinker. Grasping new ideas and concepts quickly. Thriving under pressure and communicating clearly and effectively. Currently expanding my skills through hands.on experience with dedicated personal projects in cloud architecture and actively pursuing certifications.",
+	"certificationsHeld": [{
+			"certification": "A+",
+            "targetDate":"8.15.2023",
+			"dateEarned": "8.14.2023"
+		},
+		{
+			"certification": "Network+",
+			"dateEarned": "8.24.2023"
+		}
+	],
+	"certificationGoals": [{
+			"certification": "Security+",
+			"targetDate": "9.5.2023"
+		},
+		{
+			"certification": "Linux+",
+			"targetDate": "09.30.2023"
+		},
+		{
+			"certification": "AWS Cloud Practitioner",
+			"targetDate": "10.15.2023"
+		},
+		{
+			"certification": "AWS Solutions Architect Associate",
+			"targetDate": "12.01.2023"
+		},
+		{
+			"certification": "AWS SysOps Administrator",
+			"targetDate": "01.15.2023"
+		},
+		{
+			"certification": "AWS Developer",
+			"targetDate": "03.01.2023"
+		},
+		{
+			"certification": "AWS Solutions Architect Professional",
+			"targetDate": "04.15.2023"
+		},
+		{
+			"certification": "AWS Security",
+			"targetDate": "06.01.2023"
+		},
+		{
+			"certification": "CISSP",
+			"targetDate": "08.01.2024"
+		}
+	],
+	"skills": ["AWS", "Azure", "Network Security & Management", "CloudFormation", "Python", "PowerShell", "Microsoft365", "Analytical Thinking", "Solution Oriented", "Customer Focused"],
+
+
+	"professionalExperience": [{
+			"companyName": "Digital NinjaZ",
+			"title": "Business Ninja",
+			"startDate": "June 2023",
+			"endDate": "Present",
+			"responsibilities": ["Liaise between clients and technical staff to identify shortfalls in infrastructure and design solutions that fit the clients needs",
+				"Design and implement cloud integration solutions ",
+				"Conduct Vulnerability assessments and design security plan within the NIST framework",
+				"Oversee the onboarding of new clients and manage network deployments",
+				"Resolve and escalate tickets using Atera"
+			]
+		},
+		{
+			"companyName": "Candia Holdings",
+			"title": "Vice President of Asset Strategies",
+			"startDate": "June 2014",
+			"endDate": "February 2023",
+			"responsibilities": ["Investment and Divestment analysis, Leasing, Marketing, Budgeting, Oversee all projects",
+				"Lead the IT vendors in design, implementation and management of the network and cloud integration",
+				"Help desk support for staff and tenants"
+			]
+		}
+
+	]
+
+}
